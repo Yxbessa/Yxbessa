@@ -1,1 +1,9 @@
-
+body{
+    background-color: cornSilk;
+    color: black;
+    font-family: cursive;
+}
+button{
+    background-color: burlywood;
+    font-family: cursive;
+}
